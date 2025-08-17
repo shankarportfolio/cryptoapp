@@ -161,48 +161,6 @@
     "duplicate": false
   },
   {
-    "article_id": "10040153e633f390eae4932a2f575577",
-    "title": "US Marshalls ‘forfeited’ Bitcoin stash may be $20B smaller than estimated, raising eyebrows about reserve",
-    "link": "https://cryptoslate.com/us-marshalls-forfeited-bitcoin-stash-may-be-smaller-than-estimated-raising-eyebrows-about-reserve/",
-    "keywords": [
-      "featured",
-      "crypto",
-      "bitcoin",
-      "us",
-      "politics",
-      "adoption"
-    ],
-    "creator": [
-      "Oluwapelumi Adejumo"
-    ],
-    "description": "The US Marshals Service (USMS) appears to hold just under 29,000 Bitcoin, far lower than the more than 200,000 BTC many believed the government had in custody. The updated figure, confirmed via a Freedom of Information Act (FOIA) request by independent crypto journalist L0la L33tz on July 16, puts the government’s total at 28,988 BTC [...]The post US Marshalls ‘forfeited’ Bitcoin stash may be $20B smaller than estimated, raising eyebrows about reserve appeared first on CryptoSlate.",
-    "content": "The US Marshals Service (USMS) appears to hold just under 29,000 Bitcoin, far lower than the more than 200,000 BTC many believed the government had in custody.The updated figure, confirmed via a Freedom of Information Act (FOIA) request by independent crypto journalist L0la L33tz on July 16, puts the government’s total at 28,988 BTC as of March 2025.At current prices, that stash is worth roughly $3.4 billion. That starkly contrasts with the $23.5 billion estimate from blockchain analytics platforms like Arkham Intelligence and Bitcoin Treasuries.The discrepancy has ignited speculation across the crypto space, with some observers questioning whether the US has been quietly selling its Bitcoin holdings.[Editor’s Note: Given that President Trump announced that seized Bitcoin would become part of a Strategic Bitcoin Reserve earlier this year, it is also possible that the Bitcoin is simply no longer under US Marshals custody. However, who controls the keys for the Bitcoin tracked onchain remains unclear.]Is the US selling its Bitcoin?Bitcoin Magazine CEO David Bailey suggested the US likely sold significant portions of its BTC reserves before President Donald Trump’s swearing-in in January. He noted that the lack of visible on-chain activity may not prove anything due to custodial involvement.He stated:“I think it is conclusive they’ve been selling without creating onchain footprint.”Bitcoin analyst Sani, who tracks addresses suspected to be linked to US government wallets, confirmed no recent transactions from those addresses.However, he pointed out that if custodians like Coinbase were facilitating off-chain swaps, traditional blockchain tracking may no longer clarify government activity.Sani added:“If that’s truly what’s happening, then all the on-chain tracking we’ve been doing, mine included, might not matter anymore.”Senator Cynthia Lummis, a vocal advocate for a national Bitcoin reserve, responded with concern to this development. She said:“If true, this is a total strategic blunder and sets the United States back years in the bitcoin race.”Seized vs. forfeited BitcoinL33tz clarified that the FOIA request only covered “forfeited” Bitcoin assets legally transferred to government ownership.According to her, many seized assets, such as those tied to ongoing investigations or hacks like Bitfinex, are not yet government property and may reside with other federal agencies like the DEA or FBI.She emphasized that platforms like Arkham may misrepresent totals by lumping together seized and forfeited coins. L33tz pointed out:“For example, Arkham lists 94k BTC from the Bitfinex hack, but forfeiture in the Bitfinex case hasnt been decided, at least last time I checked.”Blockchain security expert Taylor Monahan also offered further explanation, pointing out that legal custody does not equal ownership.She noted that in many cases, seized coins remain victims’ property and will never become US government assets.Monahan highlighted ongoing legal processes, ranging from civil forfeiture to IEEPA, determining the fate of seized property.She cited several examples, including a case where the FBI currently holds $40 million in crypto linked to an August 2024 theft, but these coins are expected to be returned to the rightful owner under the terms of a plea agreement.Considering this, Monhan stated:“Most of the time the coins seized by USG do not become property of the USG. They are returned to the victim that was hacked or defrauded.”The post US Marshalls ‘forfeited’ Bitcoin stash may be $20B smaller than estimated, raising eyebrows about reserve appeared first on CryptoSlate.",
-    "pubDate": "2025-07-17 11:15:20",
-    "pubDateTZ": "UTC",
-    "image_url": "https://cryptoslate.com/wp-content/uploads/2025/07/cynthia-lummis-bitcoin-.jpg",
-    "video_url": null,
-    "source_id": "cryptoslate",
-    "source_name": "Cryptoslate",
-    "source_priority": 24234,
-    "source_url": "https://cryptoslate.com",
-    "source_icon": "https://n.bytvi.com/crypto/cryptoslate.jpg",
-    "language": "english",
-    "coin": [
-      "BTC"
-    ],
-    "sentiment": "negative",
-    "sentiment_stats": {
-      "positive": 0.54,
-      "neutral": 0.49,
-      "negative": 98.97
-    },
-    "ai_tag": [
-      "government",
-      "economy"
-    ],
-    "duplicate": false
-  },
-  {
     "article_id": "80faebae42920c68d5ce000e8341619d",
     "title": "Convano Unveils Bitcoin Reserve Strategy with $2.7 Million BTC Purchase Planned for July",
     "link": "https://en.coinotag.com/breakingnews/convano-unveils-bitcoin-reserve-strategy-with-2-7-million-btc-purchase-planned-for-july/",
