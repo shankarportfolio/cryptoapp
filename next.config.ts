@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
       'en.bitcoinsistemi.com',
       'www.forbes.com',
       'cryptoslate.com',
+      'www.cryptoslate.com',
       'www.bitcoinsistemi.com',
       'imageio.forbes.com',
       'en.coinotag.com',
